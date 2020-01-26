@@ -3,4 +3,4 @@ Este es un mensaje escrito con VSC
 Escrito por Daniel Rios Ramirez de 23 años
 
 
-Saludos terricolas
+Saludos terricolas y no terricolas
