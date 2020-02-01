@@ -1,6 +1,6 @@
 body{
-    background: gray;
-    color: green;
+    background: #ffae8f;
+    color: #6f5a7e;
     text-align: center;
     justify-content: center;
     font-size: 16px;
@@ -10,8 +10,8 @@ body{
 
 #cabecera 
 {
-    background: yellowgreen;
-    color: azure;
+    background: #cd6684;
+    color: #6f5a7e;
     font-weight: hold;
     margin: 0;
     padding: 0.4em;
