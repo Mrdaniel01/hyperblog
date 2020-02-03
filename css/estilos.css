@@ -10,11 +10,17 @@ body{
 
 #cabecera 
 {
-    background: #40e0d0;
+    background: #40e0d0 url("../imagenes/dragon.png")10px 10px;
     color: #f1fcfc;
     font-weight: hold;
     margin: 0;
     padding: 0.4em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
