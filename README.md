@@ -1,7 +1,7 @@
 # Hyperblog
 un blog para el curso de git en [**Platzi**](https://platzi.com/ "**Platzi**")
 
-Aun me quedan muchas cosas por prener en mi carrera de [*JS*](https://platzi.com/clases/learning-path/escuela-js/ "*JS*")
+Aun me quedan muchas cosas por aprender en mi carrera de [*JS*](https://platzi.com/clases/learning-path/escuela-js/ "*JS*")
 
 [![Img](https://images.freeimages.com/images/large-previews/443/php-code-1242330.jpg "Img")](https://images.freeimages.com/images/large-previews/443/php-code-1242330.jpg "Img")
 
