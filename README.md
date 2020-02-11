@@ -101,23 +101,24 @@
 |-|-|
 |   git log --pretty=format   | Te permite especificar tu propio formato|
 
+
 |Comando  | Descripción |
 |-|-|
-    |  %H     |      Hash de la confirmacion|
-    |    %h    |        Hash de la confirmacion abreviado|
-    |    %t     |       Hash del arbol |
-    |    %T    |        Hash del arbol abreviado|
-    |   %P     |       Hashes de las confirmaciones padre |
-    |  %p      |      Hashes de las confirmaciones padre abreviados |
-    |      %an     |      Nombre del autor|
-    |       %ae     |      Direccion de correo electronico del autor |
-    |       %ad      |     Fecha de autoria |
-    |       %ar     |      Fecha de autoria relativa|
-    |       %cm    |       Nombre del confirmador|
-    |       %ce      |     Direccion de correo electronico del confirmador|
-    |      %cd        |   Fecha de confirmacion|
-    |       %cr     |      Fecha de confirmacion, relativa|
-    |       %s     |       Asunto|
+|  %H     |      Hash de la confirmacion|
+|    %h    |        Hash de la confirmacion abreviado|
+|    %t     |       Hash del arbol |
+|    %T    |        Hash del arbol abreviado|
+|   %P     |       Hashes de las confirmaciones padre |
+|  %p      |      Hashes de las confirmaciones padre abreviados |
+|      %an     |      Nombre del autor|
+|       %ae     |      Direccion de correo electronico del autor |
+|       %ad      |     Fecha de autoria |
+|       %ar     |      Fecha de autoria relativa|
+|       %cm    |       Nombre del confirmador|
+|       %ce      |     Direccion de correo electronico del confirmador|
+|      %cd        |   Fecha de confirmacion|
+|       %cr     |      Fecha de confirmacion, relativa|
+ |       %s     |       Asunto|
     
 | Comando  | Descripción  |
 |-|-|
