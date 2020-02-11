@@ -84,14 +84,14 @@
    | git commit -am 'initial project version'     |     Con la bandera -a, git prepara todos los archivos rastreados antes del commit, ahorrandose el paso de git add |
 
 # REVISAR EL HISTORIAL DE CONFIRMACIONES
-| | | 
+|Comando  |Descripción | 
 |-|-|
-  |  git log        |            Lista las confirmaciones o commmits realizados con SHA-1, nombre, correo, fecha y mensaje|
-  |  git log -p          |       Muestra las diferencias introducidas entre commits|
+|  git log        |            Lista las confirmaciones o commmits realizados con SHA-1, nombre, correo, fecha y mensaje|
+|  git log -p          |       Muestra las diferencias introducidas entre commits|
 |    git log -2            |     Muestra unicamente los ultimos dos commits|
- |   git log -<n>       |        Muestra unicamente los ultimos n commits|
+|   git log -<n>       |        Muestra unicamente los ultimos n commits|
 |    git log -stat        |      Muestra las estadisticas del commmit, cuantos archicos se modificaron, cuantas lineas se añadieron o eliminaron |
-  |  git log --pretty      |     Muestra cada commit en ciertos formatos |
+|  git log --pretty      |     Muestra cada commit en ciertos formatos |
     
 
 
