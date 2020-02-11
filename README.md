@@ -1,6 +1,10 @@
 CONFIGURACION DE GITHUB
 
+<<<<<<< HEAD
     git config core.editor                 Configura un editor para escribir los mensajes de los commmits
+=======
+Aun me quedan muchas cosas por aprender en mi carrera de [*JS*](https://platzi.com/clases/learning-path/escuela-js/ "*JS*")
+>>>>>>> 1fc2faf2a37045ca11cbade37a488c9f78256dc4
 
     git config --global alisas.co checkout        Crea un alias para el commando checkout con el nombre de co
     git config --global alias.ci commit           Crea un alias para el commando commit con el nombre de ci
