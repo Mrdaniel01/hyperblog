@@ -47,12 +47,12 @@
     
 | Comando| Descripción |
 |-|-|
-|*.a          |       Ignora todos los archivos .a|
-   |     !lib.a         |     Excepto el archivo lib.a|
-    |    /TODO       |     Ignora dentro del directorio raiz el directorio TODO|
-     |   build/       |       Ignora todos los archivos del directorio build|
-      |  doc/*.txt     |      Ignora todos los archivos txt dentro del directorio pero no los .txt de los subdirectorios|
-  |      doc/**/*.txt    |    Ignora todos los archivos txt del directorio doc|
+|*.a          |   Ignora todos los archivos .a |
+|     !lib.a         |     Excepto el archivo lib.a |
+|    /TODO       |     Ignora dentro del directorio raiz el directorio TODO |
+|   build/       |       Ignora todos los archivos del directorio build |
+|  doc/*.txt     |      Ignora todos los archivos txt dentro del directorio pero no los .txt de los subdirectorios|
+|      doc/**/*.txt    |    Ignora todos los archivos txt del directorio doc|
     
 
 # MUESTRA LOS DOCUMENTOS EN EL AREA DE PREPARACION
